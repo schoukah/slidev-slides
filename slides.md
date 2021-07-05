@@ -112,6 +112,7 @@ image: https://source.unsplash.com/collection/94734566/1920x1080
 
 # Code
 
+test
 Use code snippets and get the highlighting directly![^1]
 
 ```ts {all|2|1-6|9|all}
